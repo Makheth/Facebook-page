@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
   },
   storyImage: {
     width: 68,
-    height: 120,
+    height: 160,
     borderRadius: 10, 
   },
   storyLabel: {

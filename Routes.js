@@ -4,7 +4,6 @@ import login from "./Login";
 import Timeline from "./Timeline";
 
 
-
 const stack =createNativeStackNavigator();
 
 export default function Routes()
